@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+
+[Link](https://learn-crudzaso.github.io/logstory/)
+
 <!--
 
 **Here are some ideas to get you started:**
