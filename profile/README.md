@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-[Link](https://learn-crudzaso.github.io/logstory/)
+ Hola [Link](https://learn-crudzaso.github.io/logstory/)
 
 <!--
 
